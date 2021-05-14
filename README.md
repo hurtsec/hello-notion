@@ -1,3 +1,3 @@
 # hello-notion
 Practice w/ Notion API
-Test commit
+Test commit 2
